@@ -1,0 +1,18 @@
+{
+    "alice": {
+        "salt": "40f8531949d5f4ea",
+        "password_hash": "262181774d187c22d45691827d5f2cd52ba3b82cf99ebebb39fba5cdb1e9dbd6"
+    },
+    "jean": {
+        "salt": "e11f9cf8cb01f4c1",
+        "password_hash": "b1e7dbb96dda112b6d23bd1742d39f5de27d2c29aa7cd108d860c04d215055a4"
+    },
+    "coco": {
+        "salt": "cde61be6ee81bebf",
+        "password_hash": "5414485fae73fba42e831aa561712fbe0c667b249ffe8c8fa71649c5ef7a69ec"
+    },
+    "marie": {
+        "salt": "3d3b38d1ae1692e6",
+        "password_hash": "9ec6105164b5c1a0e8990f1bcdd5a84bb812d99ad7df3e8a23944f5a715bd51e"
+    }
+}

@@ -1,0 +1,18 @@
+votechainr/
+│
+├── main.py                     # Lancement principal du programme
+├── auth.py                     # Authentification MFA (mot de passe, OTP, PIN Biométrique : 1234)
+├── blockchain.py               # Gestion de la "blockchain" locale
+├── add_user.py                 # Ajout d’un nouvel utilisateur
+├── tally_votes_anonyme.py      # Affichage pseudonymisé des résultats anonyme + hash
+├── tally_votes.py              # Affichage non pseudonymisé des résultats (version administrateur)
+│
+├── data/
+│   ├── users.json              # Fichier des utilisateurs (chiffré)
+│   ├── candidates.json         # Fichier des candidats
+│   ├── blockchain.json         # Fichier de la chaîne de blocs
+│   └── key.key                 # Clé de chiffrement Fernet (Généré automatiquement par main.py)
+│
+└── README.txt		        # Guide d'utilisation rapide
+
+

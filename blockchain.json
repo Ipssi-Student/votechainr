@@ -1,0 +1,20 @@
+[
+    {
+        "index": 1,
+        "timestamp": "2025-08-10 12:24:43",
+        "user": "alice",
+        "encrypted_vote": "gAAAAABomHNrjb6Kh2YQa-o0bdv0rs_pfZrN4APlgk9xJvZ337J-Rcz1rCFvTXGSRPzsWIsYnYzFjinGOxJZoysba3zBiGQnzw==",
+        "vote_hash": "eae1c9fe38cd7de0b807b98c4027b6bd1fe7d7d31c89d8c4370be4758c3aecf2",
+        "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "block_hash": "ced78c55e75312479f7fa9962a9c78a42e181c282d335e95443431ea143cc934"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-08-10 12:26:06",
+        "user": "coco",
+        "encrypted_vote": "gAAAAABomHO-Fei9Qh-9wwhxGKjRZkh2rMO-XHOgkxb-PkUf85rjkD1BMx-tUfUjgW57tvmSD7_JDI88t6Rlmuo94R6AJ8gHZw==",
+        "vote_hash": "0e53d253adcebc91e4065107e3637b3ed608e474d40807fc3c2e74df7a97ac86",
+        "prev_hash": "ced78c55e75312479f7fa9962a9c78a42e181c282d335e95443431ea143cc934",
+        "block_hash": "0d6e6eb58da5649a83f3cf666e406897059997ca14f41f41d652fe2bd36b94f6"
+    }
+]
